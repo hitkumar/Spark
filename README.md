@@ -4,16 +4,14 @@ I use Python's Tweepy library to get twitter stream. Spark has inbuilt functions
 There are three tasks in this repo. Sample outputs are in output folder for these.
 
 a) Finding most popular hashtags in a twitter stream.
-How to ru \n
-pyspark hashtags.py Stream_Length Window_Size
+How to run - pyspark hashtags.py Stream_Length Window_Size
 
 where Stream_Length is the total length of twitter stream it looks at. Window_size is the window across we want to do our calculation. Both are in seconds. 
 It prints the most common hastags in the stream.
 
 b) Find the tweet that was most retweeted.
 
-How to run
-pyspark retweet.py Stream_Length Window_Size
+How to run - pyspark retweet.py Stream_Length Window_Size
 
 where parameters are same as above.
 It prints the most common tweet.
