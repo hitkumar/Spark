@@ -1,0 +1,7 @@
+TweetId, Stemmed Tweet, Positive Score, Negative score, Overall Score
+
+[(u'704635047932878849', 'rt  smtownengsub  hanteo top 100 weekly female albums\n 1 mamamoo\n 2 gfriend\n 3 4minute\n 4 \n 5 taeyeon\n 6 ladies  code\n 7 wjsn https', 0.043478260869565216, 0.0, 'positive')]
+[(u'704635022184222720', 'rt  bishoppmorton   s time  pray    join  7 00 7 15am est 712 432 3100 code 239789  changingagenatl', 0.0, 0.0, "Can't Say")]
+[(u'704635023954223104', 'embed code    https   t  tkjkkbhxwx\n\n   uts43  march 1  2016\n\n  https   t  quyrip8obo', 0.0, 0.0, "Can't Say")]
+[(u'704635030170177537', 'rt  amiiboalerts  mew promo code giveaway  rt   follow   chance  win  ends 3 1   pokemon20 https   t  ip2hxzl3ed', 0.058823529411764705, 0.0, 'positive')]
+[(u'704635690127069184', 'spring  snow valley anthology blog tour  25 giveaway  enter  win  amazon gift code  paypal cash  https   t  hiqdjbbjp9', 0.05555555555555555, 0.0, 'positive')]
